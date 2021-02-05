@@ -8,10 +8,6 @@ const Color PLAYER2_COLOR = Colors.blue;
 String PLAYER1_SYMBOL;
 String PLAYER2_SYMBOL;
 
-int xScore = 0, oScore = 0;
-
-//const String PLAYER1_SYMBOL = 'X';
-//const String PLAYER2_SYMBOL = 'O';
 
 const String GAME_TITLE = 'Tic Tac Toe';
 const String TIED_TITLE = 'Game Tied!';
